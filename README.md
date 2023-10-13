@@ -30,6 +30,6 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ryxena&theme=react" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ryxena&theme=react" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryxena&theme=react" height="180em" />
-</div>
 
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ryxena&theme=react-dark"/>
+</div>
