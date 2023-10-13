@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rubben Mulyo Santoso</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&random=true&width=435&lines=Backend+Dev;Javascript+%26+Typescript+" alt="Typing SVG" /></a>
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&random=true&width=435&lines=Backend+Dev;Javascript+%26+Typescript+" alt="Typing SVG" /></a>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryxena" alt="ryxena" /></a> </p>
 
