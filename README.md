@@ -41,8 +41,8 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ryxena&theme=react" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ryxena&theme=react&gmtOffset=7" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryxena&theme=react" height="180em" />
-<br />
+<br>
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br />
+<br>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ryxena&theme=react-dark"/>
 </div>
