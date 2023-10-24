@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rubben Mulyo Santoso</h1>
+[![An image of @ryxena's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ryxena)](https://holopin.io/@ryxena)
 <a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&random=true&width=435&lines=Backend+Dev;Javascript+%26+Typescript+" alt="Typing SVG" /></a>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryxena" alt="ryxena" /></a> </p>
